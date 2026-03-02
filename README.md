@@ -1,4 +1,4 @@
-# Scanny---all-in-one-WiFi-tool
+# Scanny
 Cool wifi jam tool.
 _________________________
 
